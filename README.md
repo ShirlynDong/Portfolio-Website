@@ -1,52 +1,61 @@
-# Personal Website Starter Code
+# Shirlyn Dong – Personal Website
 
-This is a place for you to start building your personal website!
+This is a personal website built using **HTML** and **CSS** to showcase my background, technical skills, and software projects. The site includes a homepage with personal and academic information, and a portfolio page that highlights several projects I've worked on. The website was fully designed and developed by me.
 
-### Project Requirements
-Your project should:
-- Include one home HTML page that's all about you!
-- Include a navigation bar that is included on all your website's pages.
-- Include one portfolio HTML page to showcase your projects.
-- Have all text, image(s), links, and/or videos on the page contained within appropriate HTML elements.
-- Include alt text for every image in your website.
-- Apply styles to text, image, and navigation bar elements using CSS rules.
-- Use classes and/or IDs to style CSS elements.
+## Features
 
-### Extensions
-You can extend your project further by:
-- Customizing the fonts.
-- Adding some fancy CSS styles.
-- Embedding YouTube videos.
-- Adding another page or more content.
+- Homepage with background, interests, and technical skills  
+- Portfolio page featuring detailed project descriptions and screenshots  
+- Navigation bar for seamless page switching  
+- Footer with contact info and LinkedIn link  
+- Semantic HTML structure with accessible elements
 
+## Usage
 
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- Ada Lovelace Image on index.html: Alfred Edward Chalon / Public domain 
-- Ada Lovelace Program Image on portfolio.html: Ada Lovelace / Public domain
-- The Analytical Engine portfolio.html: Science Museum London / Science and Society Picture Library / CC BY-SA [https://creativecommons.org/licenses/by-sa/2.0]()
-- Portfolio Header Background Code Image from Pixabay [Image Link](https://pixabay.com/vectors/background-the-background-1086840/)
+1. Open `index.html` in a web browser to view the homepage.  
+2. Use the navigation bar to access the `portfolio.html` page.  
+3. Modify `index.html`, `portfolio.html`, and `style.css` to customize content and design.
 
----
+## Project Highlights
 
-## File Overview
+### Go Cleaning App
 
-### ← README.md
+A gamified cleaning and habit-tracking app developed with **MIT App Inventor**.  
+Users calculate a personalized "Dirty Level" based on their daily habits and receive a cleaning schedule with countdown timers. Completing tasks earns points and encourages better routines.
 
-That's this file. This is the place to tell people more about what your website does and how you built it. 
+**Built With:** MIT App Inventor  
+**Collaboration:** Pair project  
+**Focus Areas:** Gamification, user engagement, time-based functionality
 
-### ← index.html
+![Go Clean Summary Page](assets/GoCleanSummaryPage.png)
 
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
+### Fishing Cat Game
 
-### ← style.css
+A 2D fishing game created with **Python** and **Pygame**.  
+Players navigate with keyboard controls, fish using timing-based mechanics, and exchange catches for in-game items (cats). The game includes sprite handling, interactive zones, and a basic shop system.
 
-CSS files add styling rules to your content like changing colors and fonts. 
+**Built With:** Python, Pygame  
+**Focus Areas:** Event handling, game loop design, interactive input
 
-### ← script.js
+![Fishing Cat Game](assets/FishingGamePage.png)
 
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
+### Math Dog Simulator
 
-### ← assets
+An educational math game developed in **Java** using **Java Swing**.  
+Players solve randomly generated math problems against a timer to increase their "strength" and defeat mystery opponents. The game includes sound effects and animated UI feedback.
 
-Drag in `assets`, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
+**Built With:** Java, Java Swing  
+**Focus Areas:** Random logic, UI interaction, audio integration
+
+## Built With
+
+- HTML  
+- CSS  
+- JavaScript (included for future interactivity)  
+- Local assets stored in the `assets/` folder
+
+## Acknowledgements
+
+All content and code created by **Shirlyn Dong**.  
+Images are from my own project work or created by me.
+This website was initially built using the **Girls Who Code Replit template**, which provided the project structure and starter files.
