@@ -5,6 +5,7 @@ This is a personal website built using **HTML** and **CSS** to showcase my backg
 <img width="33%" alt="Image" src="https://github.com/user-attachments/assets/ee55814c-418f-497e-bb2f-ac10a8fa9c06" />
 <img width="33%" alt="Image" src="https://github.com/user-attachments/assets/fceb3797-69e6-4f28-b8fc-3cc6f090bdf3" />
 <img width="32%" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6653dc3d-e169-4687-b221-7b30bd0df60f" />
+https://github.com/user-attachments/assets/96ce9a27-1fac-4d70-8ad5-64e9887f9fee
 
 ## Features
 
