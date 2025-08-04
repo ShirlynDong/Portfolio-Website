@@ -2,6 +2,10 @@
 
 This is a personal website built using **HTML** and **CSS** to showcase my background, technical skills, and software projects. The site includes a homepage with personal and academic information, and a portfolio page that highlights several projects I've worked on. The website was fully designed and developed by me.
 
+<img width="330" alt="Image" src="https://github.com/user-attachments/assets/ee55814c-418f-497e-bb2f-ac10a8fa9c06" />
+<img width="330" alt="Image" src="https://github.com/user-attachments/assets/fceb3797-69e6-4f28-b8fc-3cc6f090bdf3" />
+<img width="320" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6653dc3d-e169-4687-b221-7b30bd0df60f" />
+
 ## Features
 
 - Homepage with background, interests, and technical skills  
